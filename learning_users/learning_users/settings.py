@@ -27,7 +27,7 @@ SECRET_KEY = 'i%!5h2t=!eyz(tzz5u*^&6!txj3%kf)g8#&rv4h$cjh1uul94^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["tuckedo.pythonanywhere.com"]
 
 
 # Application definition
